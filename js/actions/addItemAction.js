@@ -7,6 +7,5 @@ export function addItem(item) {
         payload: {
             item
         }
-
     });
 }
