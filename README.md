@@ -1,7 +1,13 @@
-cd /path/to/todo
+### To Do App with React & Flux
 
-npm install
+`cd /path/to/todo`
 
-./node_modules/.bin/browserify -t babelify js/index.js -o build/main.js
+`npm install`
 
-json-server --watch db.json
+`./node_modules/.bin/browserify -t babelify js/index.js -o build/main.js`
+
+`json-server --watch db.json`
+
+------------
+
+![](https://i.ibb.co/LrW66c1/screen.png)
