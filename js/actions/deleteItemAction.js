@@ -7,6 +7,5 @@ export function deleteItem(item) {
         payload: {
             item
         }
-
     });
 }
