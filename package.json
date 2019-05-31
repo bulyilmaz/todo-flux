@@ -1,6 +1,7 @@
 {
   "name": "todo",
   "description": "To Do App with React & Flux",
+  "author": "Bülent YILMAZ",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-preset-es2015": "^6.24.1",
