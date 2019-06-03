@@ -1,4 +1,4 @@
-### To Do App with React & Flux
+### To Do App with React & Flux & Browserify
 
 `cd /path/to/todo`
 
